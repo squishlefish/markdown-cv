@@ -69,6 +69,35 @@ p {
 	width: 60%;
 }
 
+table {
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.2em;
+	margin-right: 0;
+	width: 60%;
+    overflow: auto;
+    margin-top: 0px;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table td,
+table th {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -135,7 +164,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #00a;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -177,8 +206,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	/*color: #2d4e5e*/
 }
 
 strong {

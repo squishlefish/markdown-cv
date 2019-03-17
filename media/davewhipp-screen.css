@@ -69,6 +69,41 @@ p {
 	width: 55%;
 }
 
+table {
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+    overflow: auto;
+    margin-top: 0px;
+}
+
+.markdown-body table {
+  display: block;
+  overflow: auto;
+  width: 100%;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table td,
+table th {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -135,7 +170,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #2b41bc;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -165,7 +200,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: #2b41bc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }

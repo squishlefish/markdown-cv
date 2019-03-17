@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Oton Pavlič's CV
 ---
-# Isaac Newton
+# Oton Pavlič
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pavlic.oton@gmail.com">pavlic.oton@gmail.com</a>
+| <a href="http://www.pavlic.si">www.pavlic.si</a>
 </div>
 
 
@@ -82,7 +82,17 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+## Testing
 
+`1800`
+<table>
+<tr><th>Testing</th><th>A</th><th>table</th></tr>
+<tr><td>Are</td><td>we</td><td>aligned?</td></tr>
+</table>
+
+| testing | an | nother | table |
+| ------- | -- | ------ | ----- |
+| hello   | w  | orld   | !     |
 
 <!-- ### Footer
 
