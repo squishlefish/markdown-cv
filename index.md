@@ -1,27 +1,34 @@
 ---
 layout: cv
-title: Oton Pavlič's CV
+title: Sonja Huč CV
 ---
-# Oton Pavlič
-Physicist, Mathematician, Cambridge professor.
+# Sonja Huč
+Preloge 53, 1211 Ljubljana – Šmartno  
+Datum rojstva: 22. 11. 1997
 
 <div id="webaddress">
-<a href="pavlic.oton@gmail.com">pavlic.oton@gmail.com</a>
-| <a href="http://www.pavlic.si">www.pavlic.si</a>
+<a href="sonja.huc@gmail.com">sonja.huc@gmail.com</a>
+| 040 577 047
 </div>
 
 
-## Currently
+## Izobrazba
 
-Standing on the shoulders of giants
-sdfsdfgsdfgdfgdfgfdfgf
+`2016 - trenutno`
+Biotehniška fakulteta Univerze v Ljubljani  
+- univerzitetni študijski program prve stopnje Biologija (3. letnik)
 
-nov odstavk
+`2012 - 2016`
+Škofijska klasična gimnazija  
+- prejemnica Zoisove štipendije
 
-### Specialized in
+## Delovne izkušnje
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+`18. – 28. 7. 2018`
+Raziskovalni Tabor Študentov Biologije  
+Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
+- Mentorica skupine za morske mehkužce: organiziranje terenov, nabiranje in/ali fotografiranje, določevanje, čiščenje, hranjenje primerkov  
+- [referenca](referenca@referenca.com)
 
 ### Research interests
 
