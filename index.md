@@ -30,82 +30,93 @@ Društvo študentov biologije, Večna pot 111, 1000 Ljubljana
 - Mentorica skupine za morske mehkužce: organiziranje terenov, nabiranje in/ali fotografiranje, določevanje, čiščenje, hranjenje primerkov  
 - [referenca](referenca@referenca.com)
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`30. 6. 2018`
+Enodneven teren za morske mehkužce  
+Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
+- Mentorica enodnevnega terena za morske mehkužce: priprava in izvedba programa terenskega dneva, nabiranje in/ali fotografiranje, določevanje primerkov  
+- Referenca: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 
+`Poletje 2010 `
+Poletni herpetološki tabor za otroke  
+Friends School of Wilmington, Wilmington, NC, ZDA  
+- Pomočnica voditeljice poletnega herpetološkega tabora za otroke
+stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok, priprava malic  
+- Referenca: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
 
-## Awards
+## Kompetence
 
-`2012`
-President, *Royal Society*, London, UK
+### Materni jeziki
 
-Associate, *French Academy of Science*, Paris, France
+- slovenščina
+- angleščina
 
+### Drugi jeziki
 
+| Jezik      | Slušno razumevanje | Bralno razumevanje | Govorno sporazumevanje | Govorno sporočanje | Pisno sporočanje |
+| ---------- | :----------------: | :----------------: | :--------------------: | :----------------: | :--------------: |
+| angleščina | Native speaker     | Native speaker     | Native speaker         | Native speaker     | Native speaker   |
+| nemščina   | B1                 | B2                 | B1                     | B1                 | A2               |
+| španščina  | B1                 | B2                 | A2                     | A2                 | B1               |
+| latinščina | A1                 | A2                 | A1                     | A1                 | A1               |
 
-## Publications
+### Vozniško dovoljenje
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Am, B1, B, G
+- Lasten prevoz
 
-### Journals
+### Strokovne izkušnje
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Urejanje spletne strani za lastno zbirko malakološke favne www.sonja.si
+- Poletna šola biologije v Kostariki pod vodstvom dr. Toma Turka (2018)
+- Video snemanje transekta koralnega grebena na Mauritiusu (2019)
+- Sodelovanje z Muzejem školjk (referenca: Jan Simič, email: jan.simic86@gmail.com)
 
-`1669`
-Lectiones opticæ.
+### Strokovne kompetence
 
-etc. etc. etc.
+- Terensko delo iz malakologije, botanike, herpetologije, mikologije ter vodnih in kopenskih nevretenčarjev
+- Izdelava herbarija
+- Delo v (bio)kemijskem, mikrobiološkem, genetskem, fiziološkem laboratoriju
+- Vzgoja sadik
 
-### Patents
+### Računalniške kompetence
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+| Programska oprema     | Nivo znanja |
+| --------------------- | ----------- |
+| Microsoft Word        | dobro       |
+| Microsoft Power Point | zelo dobro  |
+| Microsoft Excel       | osnovno     |
+| Linux ukazna vrstica  | dobro       |
+| PyMOL                 | osnovno     |
+| Gimp                  | dobro       |
+| Adobe InDesign        | osnovno     |
+| R                     | osnovno     |
+| Cockos Reaper         | dobro       |
+| VMD                   | osnovno     |
 
+## Ostale lastnosti in kompetence
 
-## Occupation
+- Vztrajnost
+- Sposobnost samostojnega dela
+- Sposobnost timskega dela
+- Sposobnost natančnega upoštevanja navodil/protokola
+- Samoiniciativnost
+- Izrazit čut za pravičnost in poštenost
+- Želja in pripravljenost za nadaljnje izobraževanje
+- Prevajanje iz slovenščine v angleščino
+- Zanimanje za in osnovno znanje bioinformatike
 
-`1600`
-__Royal Mint__, London
+## Aktivnosti v prostem času
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-## Testing
-
-`1800`
-<table>
-<tr><th>Testing</th><th>A</th><th>table</th></tr>
-<tr><td>Are</td><td>we</td><td>aligned?</td></tr>
-</table>
-
-| testing | an | nother | table |
-| ------- | -- | ------ | ----- |
-| hello   | w  | orld   | !     |
+- Glasba: solo petje, kitara, violončelo, pisanje in snemanje skladb v okviru dueta
+- Narava: potapljanje na dah z namenom raziskovanja morja, vrtnarjenje, gobarjenje
+- Teraristika: Pantherophis guttatus, Boa constrictor imperator
+- Fotografija narave, podvodna in popotniška fotografija
+- Risanje, slikanje, likovno ustvarjanje, šivanje oblačil
+- Kuhanje omak iz doma vzgojenih čilijev (več kot 100 sort), peka in krašenje tort
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2019 -->
 
 
