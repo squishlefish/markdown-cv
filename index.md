@@ -65,21 +65,21 @@ stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok,
 - Am, B1, B, G
 - Lasten prevoz
 
-### Strokovne izkušnje
+## Strokovne izkušnje
 
 - Urejanje spletne strani za lastno zbirko malakološke favne www.sonja.si
 - Poletna šola biologije v Kostariki pod vodstvom dr. Toma Turka (2018)
 - Video snemanje transekta koralnega grebena na Mauritiusu (2019)
 - Sodelovanje z Muzejem školjk (referenca: Jan Simič, email: jan.simic86@gmail.com)
 
-### Strokovne kompetence
+## Strokovne kompetence
 
 - Terensko delo iz malakologije, botanike, herpetologije, mikologije ter vodnih in kopenskih nevretenčarjev
 - Izdelava herbarija
 - Delo v (bio)kemijskem, mikrobiološkem, genetskem, fiziološkem laboratoriju
 - Vzgoja sadik
 
-### Računalniške kompetence
+## Računalniške kompetence
 
 | Programska oprema     | Nivo znanja |
 | --------------------- | ----------- |
