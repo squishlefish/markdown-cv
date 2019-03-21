@@ -2,7 +2,7 @@
 layout: cv
 title: Sonja Huč CV
 ---
-# Sonja Huč ![](smiley-fish.jpg)
+# Sonja Huč ![](IMG_5419.jpg)
 Preloge 53, 1211 Ljubljana – Šmartno  
 Datum rojstva: 22. 11. 1997
 
