@@ -2,7 +2,7 @@
 layout: cv
 title: Sonja Huč CV
 ---
-# Sonja Huč
+# Sonja Huč ![](smiley-fish.jpg)
 Preloge 53, 1211 Ljubljana – Šmartno  
 Datum rojstva: 22. 11. 1997
 
@@ -110,7 +110,7 @@ stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok,
 
 - Glasba: solo petje, kitara, violončelo, pisanje in snemanje skladb v okviru dueta
 - Narava: potapljanje na dah z namenom raziskovanja morja, vrtnarjenje, gobarjenje
-- Teraristika: Pantherophis guttatus, Boa constrictor imperator
+- Teraristika: *Pantherophis guttatus*, *Boa constrictor imperator*
 - Fotografija narave, podvodna in popotniška fotografija
 - Risanje, slikanje, likovno ustvarjanje, šivanje oblačil
 - Kuhanje omak iz doma vzgojenih čilijev (več kot 100 sort), peka in krašenje tort
