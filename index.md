@@ -15,55 +15,51 @@ Datum rojstva: 22. 11. 1997
 ## Izobrazba
 
 `2016 - trenutno`
-Biotehniška fakulteta Univerze v Ljubljani  
-- univerzitetni študijski program prve stopnje Biologija (3. letnik)
+- Biotehniška fakulteta Univerze v Ljubljani  
+univerzitetni študijski program prve stopnje Biologija (3. letnik)
 
 `2012 - 2016`
-Škofijska klasična gimnazija  
-- prejemnica Zoisove štipendije
+- Škofijska klasična gimnazija  
+prejemnica Zoisove štipendije
 
 ## Delovne izkušnje
 
 `18. – 28. 7. 2018`
-Raziskovalni Tabor Študentov Biologije  
+- Raziskovalni Tabor Študentov Biologije  
 Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
-- Mentorica skupine za morske mehkužce: organiziranje terenov, nabiranje in/ali fotografiranje, določevanje, čiščenje, hranjenje primerkov  
-- [referenca](referenca@referenca.com)
+Mentorica skupine za morske mehkužce: organiziranje terenov, nabiranje in/ali fotografiranje, določevanje, čiščenje, hranjenje primerkov  
+[referenca](referenca@referenca.com)
 
 `30. 6. 2018`
-Enodneven teren za morske mehkužce  
+- Enodneven teren za morske mehkužce  
 Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
-- Mentorica enodnevnega terena za morske mehkužce: priprava in izvedba programa terenskega dneva, nabiranje in/ali fotografiranje, določevanje primerkov  
-- Referenca: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
-
+Mentorica enodnevnega terena za morske mehkužce: priprava in izvedba programa terenskega dneva, nabiranje in/ali fotografiranje, določevanje primerkov  
+Referenca: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 `Poletje 2010 `
-Poletni herpetološki tabor za otroke  
+- Poletni herpetološki tabor za otroke  
 Friends School of Wilmington, Wilmington, NC, ZDA  
-- Pomočnica voditeljice poletnega herpetološkega tabora za otroke
+Pomočnica voditeljice poletnega herpetološkega tabora za otroke
 stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok, priprava malic  
-- Referenca: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
+Referenca: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
 
-## Kompetence
-
-### Materni jeziki
+## Materni jeziki
 
 - slovenščina
 - angleščina
 
-### Drugi jeziki
+## Drugi jeziki
 
-| Jezik      | Slušno razumevanje | Bralno razumevanje | Govorno sporazumevanje | Govorno sporočanje | Pisno sporočanje |
-| ---------- | :----------------: | :----------------: | :--------------------: | :----------------: | :--------------: |
-| angleščina | Native speaker     | Native speaker     | Native speaker         | Native speaker     | Native speaker   |
-| nemščina   | B1                 | B2                 | B1                     | B1                 | A2               |
-| španščina  | B1                 | B2                 | A2                     | A2                 | B1               |
-| latinščina | A1                 | A2                 | A1                     | A1                 | A1               |
+| Jezik      | Slušno razumevanje | Bralno razumevanje | Govorno sporazumevanje | Govorno sporočanje | Pisno sporočanje    |
+| :--------: | :----------------: | :----------------: | :--------------------: | :----------------: | :-----------------: |
+| angleščina | Native speaker     | Native speaker     | Native speaker         | Native speaker     | Native speaker      |
+| nemščina   | B1                 | B2                 | B1                     | B1                 | A2                  |
+| španščina  | B1                 | B2                 | A2                     | A2                 | B1                  |
+| latinščina | A1                 | A2                 | A1                     | A1                 | A1                  |
 
-### Vozniško dovoljenje
+## Vozniško dovoljenje
 
-- Am, B1, B, G
-- Lasten prevoz
+- AM, B1, B, G ~ Lasten prevoz
 
 ## Strokovne izkušnje
 
@@ -81,18 +77,13 @@ stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok,
 
 ## Računalniške kompetence
 
-| Programska oprema     | Nivo znanja |
-| --------------------- | ----------- |
-| Microsoft Word        | dobro       |
-| Microsoft Power Point | zelo dobro  |
-| Microsoft Excel       | osnovno     |
-| Linux ukazna vrstica  | dobro       |
-| PyMOL                 | osnovno     |
-| Gimp                  | dobro       |
-| Adobe InDesign        | osnovno     |
-| R                     | osnovno     |
-| Cockos Reaper         | dobro       |
-| VMD                   | osnovno     |
+| Programska oprema     | Nivo znanja | Programska oprema     | Nivo znanja |
+| --------------------- | ----------- | --------------------- | ----------- |
+| Microsoft Word        | dobro       | Gimp                  | dobro       |
+| Microsoft Power Point | zelo dobro  | Adobe InDesign        | osnovno     |
+| Microsoft Excel       | osnovno     | R                     | osnovno     |
+| Linux ukazna vrstica  | dobro       | Cockos Reaper         | dobro       |
+| PyMOL                 | osnovno     | VMD                   | osnovno     |
 
 ## Ostale lastnosti in kompetence
 
