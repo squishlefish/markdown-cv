@@ -63,6 +63,7 @@ Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 - Video transects of a coral reef in Flic en Flac, Mauritius
   
 <br/>
+
 `February 2018`
 - Summer Biology School in Costa Rica led by Dr. Tom Turk  
 Exploration of the local flora and fauna under the guidance of Dr. Werner Huber  
