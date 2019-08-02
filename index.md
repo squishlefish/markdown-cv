@@ -14,12 +14,12 @@ Date of birth: 22. 11. 1997
 
 ## Education
 
-`2016 - present`
+`2016 – present`
 - Biotechnical faculty, University of Ljubljana  
 Ljubljana, Slovenia  
 Bachelor degree programme: Biology (final year)
 
-`2012 - 2016`
+`2012 – 2016`
 - St. Stanislav's Institution - Diocesan Classical Gymnasium  
 Ljubljana, Slovenia  
 Recipient of the state merit Zois Scholarship
@@ -42,18 +42,18 @@ Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 ## Research Experience
 
-`2012 - present`
+`2012 – present`
 - Field work in malacology  
-Snorekling, freediving, beach collection of marine mollusks  
+Snorkeling, freediving, beach collection of marine mollusks  
 Hiking, collection of terrestrial mollusks  
 Adding proper data to collected specimens  
 Identifying specimens using books and online recources
 
-`2017 - present`
+`2017 – present`
 - Curating my website for my molluskan fauna collection www.sonja.si  
 Cleaning, organizing, photographing specimens
 
-`2016 - present`
+`2016 – present`
 - Field work with the curator of the Magical World of Shells Museum  
 Collecting fossil mollusk specimens  
 Collecting marine mollusk specimens  
