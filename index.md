@@ -68,7 +68,7 @@ Exploration of the local flora and fauna under the guidance of Dr. Werner Huber
 Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
 Instituto Clodomiro Picado visit and lecture
 
-## Other Skills
+## Skills
 
 - Field work: aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology
 - Lab work: (bio)chemistry, microbiology, botany, mycology, animal and plant physiology, and genetics
