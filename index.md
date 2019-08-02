@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Sonja Huč CV
+title: Sonja Huc CV
 ---
 # Sonja Huč
 Preloge 53, 1211 Ljubljana – Šmartno  
@@ -83,7 +83,7 @@ Instituto Clodomiro Picado visit and lecture
 - Nature: snorkeling, gardening, mushroom collecting
 - Photography: nature, underwater, travel
 - Herpetological husbandry: *Pantherophis guttatus*, *Boa constrictor imperator*
-- Art: Drawing, painting, sewing
+- Art: drawing, painting, sewing
 
 <!-- ### Footer
 
