@@ -2,7 +2,7 @@
 layout: cv
 title: Sonja Huč CV
 ---
-# Sonja Huč ![](IMG_5419.jpg)
+# Sonja Huč
 Preloge 53, 1211 Ljubljana – Šmartno  
 Date of birth: 22. 11. 1997
 
@@ -22,7 +22,7 @@ Bachelor degree programme: Biology (final year)
 - Škofijska klasična gimnazija  
 prejemnica Zoisove štipendije
 
-## Delovne izkušnje
+## Teaching Experience
 
 `18. – 28. 7. 2018`
 - Biology Students Research Camp  
@@ -36,66 +36,50 @@ Biological Student's Society Ljubljana, Slovenia
 Mentor: preparation and execution of the field day, collection and/or photography, identification and storing of specimens.  
 Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
-`Poletje 2010 `
-- Poletni herpetološki tabor za otroke  
-Friends School of Wilmington, Wilmington, NC, ZDA  
-Pomočnica voditeljice poletnega herpetološkega tabora za otroke
-stare 3 – 6 let: razlaganje o živalih, rokovanje s kačami, animiranje otrok, priprava malic  
-Referenca: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
+`Summer 2010 `
+- Summer Snake Camp for Kids  
+Friends School of Wilmington, Wilmington, NC, USA  
+Asistant to the teacher leading the Summer Snake Camp for children ages 3 to 6: teaching about snakes, handling snakes, looking after children  
+Reference: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
 
-## Materni jeziki
+## Native Languages
 
-- slovenščina
-- angleščina
+- Slovenian
+- English
 
-## Drugi jeziki
+## Other Languages
 
-| Jezik      | Slušno razumevanje | Bralno razumevanje | Govorno sporazumevanje | Govorno sporočanje | Pisno sporočanje    |
+| Language      | Hearing Comprehension | Reading Comprehension | Speaking Comprehension | Govorno sporočanje | Pisno sporočanje    |
 | :--------: | :----------------: | :----------------: | :--------------------: | :----------------: | :-----------------: |
-| angleščina | Native speaker     | Native speaker     | Native speaker         | Native speaker     | Native speaker      |
-| nemščina   | B1                 | B2                 | B1                     | B1                 | A2                  |
-| španščina  | B1                 | B2                 | A2                     | A2                 | B1                  |
-| latinščina | A1                 | A2                 | A1                     | A1                 | A1                  |
+| German     | B1                 | B2                 | B1                     | B1                 | A2                  |
+| Spanish    | B1                 | B2                 | A2                     | A2                 | B1                  |
+| Latin      | A1                 | A2                 | A1                     | A1                 | A1                  |
 
-## Vozniško dovoljenje
+## Research Experience
 
-- AM, B1, B, G ~ Lasten prevoz
-
-## Strokovne izkušnje
-
-- Urejanje spletne strani za lastno zbirko malakološke favne www.sonja.si
-- Poletna šola biologije v Kostariki pod vodstvom dr. Toma Turka (2018)
-- Video snemanje transekta koralnega grebena na Mauritiusu (2019)
-- Sodelovanje z Muzejem školjk (referenca: Jan Simič, email: jan.simic86@gmail.com)
+- Field work in malacology (2012 - present)
+- Curating my website for my molluskan fauna collection www.sonja.si (2017 - present)
+- Field work with the curator of the Magical World of Shells Museum (reference: Jan Simič, email: jan.simic86@gmail.com) (2016 - present)
+- Video transects of a coral reef in Mauritius (2019)
+- Summer Biology School in Costa Rica let by Dr. Tom Turk (2018)
+- Field work in aquatic and terrestrial invertebrates, botany, herpetology, and mycology (during University)
 
 ## Strokovne kompetence
 
 - Terensko delo iz malakologije, botanike, herpetologije, mikologije ter vodnih in kopenskih nevretenčarjev
 - Izdelava herbarija
 - Delo v (bio)kemijskem, mikrobiološkem, genetskem, fiziološkem laboratoriju
-- Vzgoja sadik
+- 
 
 ## Računalniške kompetence
 
 | Programska oprema     | Nivo znanja | Programska oprema     | Nivo znanja |
 | --------------------- | ----------- | --------------------- | ----------- |
-| Microsoft Word        | dobro       | Gimp                  | dobro       |
-| Microsoft Power Point | zelo dobro  | Adobe InDesign        | osnovno     |
-| Microsoft Excel       | osnovno     | R                     | osnovno     |
-| Linux ukazna vrstica  | dobro       | Cockos Reaper         | dobro       |
-| PyMOL                 | osnovno     | VMD                   | osnovno     |
-
-## Ostale lastnosti in kompetence
-
-- Vztrajnost
-- Sposobnost samostojnega dela
-- Sposobnost timskega dela
-- Sposobnost natančnega upoštevanja navodil/protokola
-- Samoiniciativnost
-- Izrazit čut za pravičnost in poštenost
-- Želja in pripravljenost za nadaljnje izobraževanje
-- Prevajanje iz slovenščine v angleščino
-- Zanimanje za in osnovno znanje bioinformatike
+| Microsoft Word        | good        | Gimp                  | good        |
+| Microsoft Power Point | very good   | Adobe InDesign        | basic       |
+| Microsoft Excel       | basic       | R                     | basic       |
+| Linux ukazna vrstica  | good        | Cockos Reaper         | good        |
+| PyMOL                 | basic       | VMD                   | basic       |
 
 ## Aktivnosti v prostem času
 
