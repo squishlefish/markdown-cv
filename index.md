@@ -15,12 +15,28 @@ Date of birth: 22. 11. 1997
 ## Education
 
 `2016 - present`
-- Biotechnical faculty, University of Ljubljana  
+- Biotechnical faculty, University of Ljubljana
+Ljubljana, Slovenia
 Bachelor degree programme: Biology (final year)
 
 `2012 - 2016`
-- Škofijska klasična gimnazija  
-prejemnica Zoisove štipendije
+- St. Stanislav's Institution - Diocesan Classical Gymnasium
+Ljubljana, Slovenia
+recipient of the state merit Zois Scholarship
+
+## Research Experience
+
+- Field work in malacology (2012 - present)
+  - snorekling, freediving, beach collection of marine mollusks
+  - hiking, collection of terrestrial mollusks
+  - identifying specimens
+- Curating my website for my molluskan fauna collection www.sonja.si (2017 - present)
+  - 
+- Field work with the curator of the Magical World of Shells Museum (reference: Jan Simič, email: jan.simic86@gmail.com) (2016 - present)
+- Video transects of a coral reef in Mauritius (2019)
+  
+- Summer Biology School in Costa Rica let by Dr. Tom Turk (2018)
+- Field work in aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology (during University)
 
 ## Teaching Experience
 
@@ -42,53 +58,21 @@ Friends School of Wilmington, Wilmington, NC, USA
 Asistant to the teacher leading the Summer Snake Camp for children ages 3 to 6: teaching about snakes, handling snakes, looking after children  
 Reference: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
 
-## Native Languages
+## Other Skills
 
-- Slovenian
-- English
+- Lab work: (bio)chemistry, microbiology, botany, mycology, animal and plant physiology, and genetics
+- Technology skills:
+     - good: Microsoft Power Point, Microsoft Word, Linux command line, Gimp, Cockos Reaper
+     - basic: Microsoft Excel, R, PyMol, VMD, Adobe InDesign
+- Languages: Slovenian (native), English (native), German (conversational), Spanish (basic), Latin (basic)
 
-## Other Languages
+## Extracurricular Activities
 
-| Language      | Hearing Comprehension | Reading Comprehension | Speaking Comprehension | Govorno sporočanje | Pisno sporočanje    |
-| :--------: | :----------------: | :----------------: | :--------------------: | :----------------: | :-----------------: |
-| German     | B1                 | B2                 | B1                     | B1                 | A2                  |
-| Spanish    | B1                 | B2                 | A2                     | A2                 | B1                  |
-| Latin      | A1                 | A2                 | A1                     | A1                 | A1                  |
-
-## Research Experience
-
-- Field work in malacology (2012 - present)
-- Curating my website for my molluskan fauna collection www.sonja.si (2017 - present)
-- Field work with the curator of the Magical World of Shells Museum (reference: Jan Simič, email: jan.simic86@gmail.com) (2016 - present)
-- Video transects of a coral reef in Mauritius (2019)
-- Summer Biology School in Costa Rica let by Dr. Tom Turk (2018)
-- Field work in aquatic and terrestrial invertebrates, botany, herpetology, and mycology (during University)
-
-## Strokovne kompetence
-
-- Terensko delo iz malakologije, botanike, herpetologije, mikologije ter vodnih in kopenskih nevretenčarjev
-- Izdelava herbarija
-- Delo v (bio)kemijskem, mikrobiološkem, genetskem, fiziološkem laboratoriju
-- 
-
-## Računalniške kompetence
-
-| Programska oprema     | Nivo znanja | Programska oprema     | Nivo znanja |
-| --------------------- | ----------- | --------------------- | ----------- |
-| Microsoft Word        | good        | Gimp                  | good        |
-| Microsoft Power Point | very good   | Adobe InDesign        | basic       |
-| Microsoft Excel       | basic       | R                     | basic       |
-| Linux ukazna vrstica  | good        | Cockos Reaper         | good        |
-| PyMOL                 | basic       | VMD                   | basic       |
-
-## Aktivnosti v prostem času
-
-- Glasba: solo petje, kitara, violončelo, pisanje in snemanje skladb v okviru dueta
-- Narava: potapljanje na dah z namenom raziskovanja morja, vrtnarjenje, gobarjenje
-- Teraristika: *Pantherophis guttatus*, *Boa constrictor imperator*
-- Fotografija narave, podvodna in popotniška fotografija
-- Risanje, slikanje, likovno ustvarjanje, šivanje oblačil
-- Kuhanje omak iz doma vzgojenih čilijev (več kot 100 sort), peka in krašenje tort
+- Music: voice, guitar, cello, songwriting and recording
+- Nature: snorkeling, gardening, mushroom collecting
+- Photography: nature, underwater, travel
+- Herpetological husbandry: *Pantherophis guttatus*, *Boa constrictor imperator*
+- Art: Drawing, painting, sewing
 
 <!-- ### Footer
 
