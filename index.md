@@ -4,19 +4,19 @@ title: Sonja Huč CV
 ---
 # Sonja Huč ![](IMG_5419.jpg)
 Preloge 53, 1211 Ljubljana – Šmartno  
-Datum rojstva: 22. 11. 1997
+Date of birth: 22. 11. 1997
 
 <div id="webaddress">
 <a href="sonja.huc@gmail.com">sonja.huc@gmail.com</a>
-| 040 577 047
+| +386 40 577 047
 </div>
 
 
-## Izobrazba
+## Education
 
-`2016 - trenutno`
-- Biotehniška fakulteta Univerze v Ljubljani  
-univerzitetni študijski program prve stopnje Biologija (3. letnik)
+`2016 - present`
+- Biotechnical faculty, University of Ljubljana  
+Bachelor degree programme: Biology (final year)
 
 `2012 - 2016`
 - Škofijska klasična gimnazija  
@@ -25,16 +25,16 @@ prejemnica Zoisove štipendije
 ## Delovne izkušnje
 
 `18. – 28. 7. 2018`
-- Raziskovalni Tabor Študentov Biologije  
-Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
-Mentorica skupine za morske mehkužce: organiziranje terenov, nabiranje in/ali fotografiranje, določevanje, čiščenje, hranjenje primerkov  
-[referenca](referenca@referenca.com)
+- Biology Students Research Camp  
+Biological Student's Society Ljubljana, Slovenia
+Mentor of the Marine Mollusk group: organizing field work, collection and/or photography, identification, cleaning, and storing of specimens.  
+Reference:Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
 
 `30. 6. 2018`
-- Enodneven teren za morske mehkužce  
-Društvo študentov biologije, Večna pot 111, 1000 Ljubljana  
-Mentorica enodnevnega terena za morske mehkužce: priprava in izvedba programa terenskega dneva, nabiranje in/ali fotografiranje, določevanje primerkov  
-Referenca: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
+- Marine Mollusk Field Day  
+Biological Student's Society Ljubljana, Slovenia 
+Mentor: preparation and execution of the field day, collection and/or photography, identification and storing of specimens.  
+Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 `Poletje 2010 `
 - Poletni herpetološki tabor za otroke  
@@ -108,6 +108,6 @@ Referenca: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
 
 <!-- ### Footer
 
-Last updated: Mar 2019 -->
+Last updated: Aug 2019 -->
 
 
