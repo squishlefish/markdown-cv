@@ -22,44 +22,55 @@ Bachelor degree programme: Biology (final year)
 `2012 - 2016`
 - St. Stanislav's Institution - Diocesan Classical Gymnasium
 Ljubljana, Slovenia
-recipient of the state merit Zois Scholarship
+Recipient of the state merit Zois Scholarship
 
-## Research Experience
-
-- Field work in malacology (2012 - present)
-  - snorekling, freediving, beach collection of marine mollusks
-  - hiking, collection of terrestrial mollusks
-  - identifying specimens
-- Curating my website for my molluskan fauna collection www.sonja.si (2017 - present)
-  - 
-- Field work with the curator of the Magical World of Shells Museum (reference: Jan Simič, email: jan.simic86@gmail.com) (2016 - present)
-- Video transects of a coral reef in Mauritius (2019)
-  
-- Summer Biology School in Costa Rica let by Dr. Tom Turk (2018)
-- Field work in aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology (during University)
-
-## Teaching Experience
+## Teaching and Research Experience
 
 `18. – 28. 7. 2018`
 - Biology Students Research Camp  
 Biological Student's Society Ljubljana, Slovenia
-Mentor of the Marine Mollusk group: organizing field work, collection and/or photography, identification, cleaning, and storing of specimens.  
-Reference:Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
+Mentor of the Marine Mollusk Group
+Organizing field work, teaching university students, collection and/or photography, identification, cleaning, and storing of specimens  
+Reference: Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
 
 `30. 6. 2018`
 - Marine Mollusk Field Day  
 Biological Student's Society Ljubljana, Slovenia 
-Mentor: preparation and execution of the field day, collection and/or photography, identification and storing of specimens.  
+Mentor
+Preparation and execution of the field day, teaching university students, collection and/or photography, identification, and storing of specimens  
 Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
-`Summer 2010 `
-- Summer Snake Camp for Kids  
-Friends School of Wilmington, Wilmington, NC, USA  
-Asistant to the teacher leading the Summer Snake Camp for children ages 3 to 6: teaching about snakes, handling snakes, looking after children  
-Reference: Karen Smith Linehan ([karenl@fsow.org](karenl@fsow.org))
+## Research Experience
+
+`2012 - present`
+- Field work in malacology
+Snorekling, freediving, beach collection of marine mollusks
+Hiking, collection of terrestrial mollusks
+Adding proper data to collected specimens
+Identifying specimens using books and online recources
+
+`2017 - present`
+- Curating my website for my molluskan fauna collection www.sonja.si
+Cleaning, organizing, photographing specimens
+
+`2016 - present`
+- Field work with the curator of the Magical World of Shells Museum
+Collecting fossil mollusk specimens
+Collecting marine mollusk specimens
+Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
+
+`February 2019`
+- Video transects of a coral reef in Mauritius
+
+`February 2018`
+- Summer Biology School in Costa Rica led by Dr. Tom Turk
+Exploration of the local flora and fauna under the guidance of Dr. Werner Huber
+Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce
+Instituto Clodomiro Picado visit and lecture
 
 ## Other Skills
 
+- Field work: aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology
 - Lab work: (bio)chemistry, microbiology, botany, mycology, animal and plant physiology, and genetics
 - Technology skills:
      - good: Microsoft Power Point, Microsoft Word, Linux command line, Gimp, Cockos Reaper
