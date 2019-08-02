@@ -30,14 +30,14 @@ Recipient of the state merit Zois Scholarship
 - Biology Students Research Camp  
 Biological Student's Society Ljubljana, Slovenia  
 Mentor of the Marine Mollusk Group  
-Organizing field work, teaching university students, collection and/or photography, identification, cleaning, and storing of specimens  
+Organizing field work, teaching university students, collection, photography, identification, cleaning, and storing of specimens  
 Reference: Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
 
 `30. 6. 2018`
 - Marine Mollusk Field Day  
 Biological Student's Society Ljubljana, Slovenia  
 Mentor  
-Preparation and execution of the field day, teaching university students, collection and/or photography, identification, and storing of specimens  
+Preparation and execution of the field day, teaching university students, collection, photography, identification, and storing of specimens  
 Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 ## Research Experience
@@ -54,13 +54,13 @@ Identifying specimens using books and online recources
 Cleaning, organizing, photographing specimens
 
 `2016 – present`
-- Field work with the curator of the Magical World of Shells Museum  
+- Field work with the curator of the Magical World of Shells Museum, Piran, Slovenia  
 Collecting fossil mollusk specimens  
 Collecting marine mollusk specimens  
 Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 
 `February 2019`
-- Video transects of a coral reef in Mauritius
+- Video transects of a coral reef in Flic en Flac, Mauritius
 
 `February 2018`
 - Summer Biology School in Costa Rica led by Dr. Tom Turk  
@@ -80,7 +80,7 @@ Instituto Clodomiro Picado visit and lecture
 ## Extracurricular Activities
 
 - Music: voice, guitar, cello, songwriting and recording
-- Nature: snorkeling, gardening, mushroom collecting
+- Nature: snorkeling, gardening, mushroom foraging
 - Photography: nature, underwater, travel
 - Herpetological husbandry: *Pantherophis guttatus*, *Boa constrictor imperator*
 - Art: drawing, painting, sewing
