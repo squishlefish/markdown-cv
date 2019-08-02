@@ -2,7 +2,7 @@
 layout: cv
 title: Sonja Huc CV
 ---
-# Sonja Huč
+# Sonja Huc
 Preloge 53, 1211 Ljubljana – Šmartno  
 Date of birth: 22. 11. 1997
 
