@@ -15,57 +15,57 @@ Date of birth: 22. 11. 1997
 ## Education
 
 `2016 - present`
-- Biotechnical faculty, University of Ljubljana
-Ljubljana, Slovenia
+- Biotechnical faculty, University of Ljubljana  
+Ljubljana, Slovenia  
 Bachelor degree programme: Biology (final year)
 
 `2012 - 2016`
-- St. Stanislav's Institution - Diocesan Classical Gymnasium
-Ljubljana, Slovenia
+- St. Stanislav's Institution - Diocesan Classical Gymnasium  
+Ljubljana, Slovenia  
 Recipient of the state merit Zois Scholarship
 
 ## Teaching and Research Experience
 
 `18. – 28. 7. 2018`
 - Biology Students Research Camp  
-Biological Student's Society Ljubljana, Slovenia
-Mentor of the Marine Mollusk Group
+Biological Student's Society Ljubljana, Slovenia  
+Mentor of the Marine Mollusk Group  
 Organizing field work, teaching university students, collection and/or photography, identification, cleaning, and storing of specimens  
 Reference: Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
 
 `30. 6. 2018`
 - Marine Mollusk Field Day  
-Biological Student's Society Ljubljana, Slovenia 
-Mentor
+Biological Student's Society Ljubljana, Slovenia  
+Mentor  
 Preparation and execution of the field day, teaching university students, collection and/or photography, identification, and storing of specimens  
 Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 ## Research Experience
 
 `2012 - present`
-- Field work in malacology
-Snorekling, freediving, beach collection of marine mollusks
-Hiking, collection of terrestrial mollusks
-Adding proper data to collected specimens
+- Field work in malacology  
+Snorekling, freediving, beach collection of marine mollusks  
+Hiking, collection of terrestrial mollusks  
+Adding proper data to collected specimens  
 Identifying specimens using books and online recources
 
 `2017 - present`
-- Curating my website for my molluskan fauna collection www.sonja.si
+- Curating my website for my molluskan fauna collection www.sonja.si  
 Cleaning, organizing, photographing specimens
 
 `2016 - present`
-- Field work with the curator of the Magical World of Shells Museum
-Collecting fossil mollusk specimens
-Collecting marine mollusk specimens
+- Field work with the curator of the Magical World of Shells Museum  
+Collecting fossil mollusk specimens  
+Collecting marine mollusk specimens  
 Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 
 `February 2019`
 - Video transects of a coral reef in Mauritius
 
 `February 2018`
-- Summer Biology School in Costa Rica led by Dr. Tom Turk
-Exploration of the local flora and fauna under the guidance of Dr. Werner Huber
-Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce
+- Summer Biology School in Costa Rica led by Dr. Tom Turk  
+Exploration of the local flora and fauna under the guidance of Dr. Werner Huber  
+Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
 Instituto Clodomiro Picado visit and lecture
 
 ## Other Skills
