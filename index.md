@@ -45,20 +45,17 @@ Curation of my website for my molluskan fauna collection www.sonja.si
 
 `2016 – present`
 - Field work with the curator of the Magical World of Shells Museum, Piran, Slovenia  
-Collecting fossil mollusk specimens  
-Collecting marine mollusk specimens  
+Collected fossil mollusk specimens and recent marine mollusk specimens  
 Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 
 `13 Feb 2019`
 - Video transects of a coral reef in Flic en Flac, Mauritius
-  
-<br/>
 
 `Feb 2018`
 - Summer Biology School in Costa Rica led by Dr. Tom Turk  
 Exploration of the local flora and fauna under the guidance of Dr. Werner Huber  
 Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
-Instituto Clodomiro Picado visit and lecture
+Visited Instituto Clodomiro Picado
 
 ## Skills
 
@@ -69,21 +66,16 @@ Instituto Clodomiro Picado visit and lecture
      - basic: Microsoft Excel, R, PyMol, VMD, Adobe InDesign
 - Languages: Slovenian (native), English (native), German (conversational), Spanish (basic), Latin (basic)
 
-## Extracurricular Activities
-
-- Music: voice, guitar, cello, songwriting and recording
-- Nature: snorkeling, gardening, mushroom foraging
-- Photography: nature, underwater, travel
-- Herpetological husbandry: *Pantherophis guttatus*, *Boa constrictor imperator*
-- Art: drawing, painting, sewing
-
 ## References
 
+- Jan Simič, Curator of the Magical World of Shells Museum, Piran, Slovenia
+Contact: ([jan.simic86@gmail.com](jan.simic86@gmail.com))
+
 - Katarina Lenarčič, Biology Students Research Camp 2018 organizer, Biology Student's Society
-  Contact: ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
+Contact: ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
   
 - Domen Kocjan, coordinator of field days, Biology Student's Society
-  Contact: ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
+Contact: ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 
 
