@@ -4,7 +4,6 @@ title: Sonja Huc CV
 ---
 # Sonja Huc
 Preloge 53, 1211 Ljubljana – Šmartno  
-Date of birth: 22. 11. 1997
 
 <div id="webaddress">
 <a href="sonja.huc@gmail.com">sonja.huc@gmail.com</a>
@@ -15,43 +14,34 @@ Date of birth: 22. 11. 1997
 ## Education
 
 `2016 – present`
-- Biotechnical faculty, University of Ljubljana  
+- Biotechnical department, University of Ljubljana  
 Ljubljana, Slovenia  
-Bachelor degree programme: Biology (final year)
+Bachelor degree: Biology (expected 2020)
 
 `2012 – 2016`
 - St. Stanislav's Institution - Diocesan Classical Gymnasium  
 Ljubljana, Slovenia  
+High School Graduate  
 Recipient of the state merit Zois Scholarship
 
-## Teaching and Research Experience
+## Teaching Experience
 
-`18. – 28. 7. 2018`
-- Biology Students Research Camp  
-Biological Student's Society Ljubljana, Slovenia  
-Mentor of the Marine Mollusk Group  
-Organizing field work, teaching university students, collection, photography, identification, cleaning, and storing of specimens  
-Reference: Katarina Lenarčič ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
+`18 - 28 Jul 2018`
+- Mentor, Marine Mollusk Group, Biology Students Research Camp  
+Biological Student's Society, Ljubljana, Slovenia   
+Organized field work, taught university students, specimen collection and photography, species identification, cleaned and stored specimens  
 
-`30. 6. 2018`
-- Marine Mollusk Field Day  
-Biological Student's Society Ljubljana, Slovenia  
-Mentor  
-Preparation and execution of the field day, teaching university students, collection, photography, identification, and storing of specimens  
-Reference: Domen Kocjan ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
+`30 Jun 2018`
+- Mentor, Marine Mollusk Field Day  
+Biological Student's Society, Ljubljana, Slovenia  
+Preparation and execution of the field day, taught university students, specimen collection and photography, species identification, stored specimens
 
 ## Research Experience
 
 `2012 – present`
-- Field work in malacology  
-Snorkeling, freediving, beach collection of marine mollusks  
-Hiking, collection of terrestrial mollusks  
-Adding proper data to collected specimens  
-Identifying specimens using books and online recources
-
-`2017 – present`
-- Curating my website for my molluskan fauna collection www.sonja.si  
-Cleaning, organizing, photographing specimens
+- Independent field work in malacology  
+Hand collection of marine and terrestrial mollusks, marine sediment collection, specimen photography, species identification, cleaned, organized, and stored specimens  
+Curation of my website for my molluskan fauna collection www.sonja.si  
 
 `2016 – present`
 - Field work with the curator of the Magical World of Shells Museum, Piran, Slovenia  
@@ -59,12 +49,12 @@ Collecting fossil mollusk specimens
 Collecting marine mollusk specimens  
 Reference: Jan Simič ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 
-`February 2019`
+`13 Feb 2019`
 - Video transects of a coral reef in Flic en Flac, Mauritius
   
 <br/>
 
-`February 2018`
+`Feb 2018`
 - Summer Biology School in Costa Rica led by Dr. Tom Turk  
 Exploration of the local flora and fauna under the guidance of Dr. Werner Huber  
 Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
@@ -86,6 +76,16 @@ Instituto Clodomiro Picado visit and lecture
 - Photography: nature, underwater, travel
 - Herpetological husbandry: *Pantherophis guttatus*, *Boa constrictor imperator*
 - Art: drawing, painting, sewing
+
+## References
+
+- Katarina Lenarčič, Biology Students Research Camp 2018 organizer, Biology Student's Society
+  Contact: ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
+  
+- Domen Kocjan, coordinator of field days, Biology Student's Society
+  Contact: ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
+
+
 
 <!-- ### Footer
 
