@@ -50,7 +50,7 @@ Collected fossil mollusk specimens and recent marine mollusk specimens
 
 `Feb 2018`
 - Summer Biology School led by Dr. Tom Turk  
-San José, Monteverde, Gamba, Drake Bay, Costa Rica
+San José, Monteverde, Gamba, Drake Bay, Costa Rica  
 Exploration of the local flora and fauna under the guidance of Dr. Werner Huber  
 Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
 Visited Instituto Clodomiro Picado
@@ -62,7 +62,7 @@ Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1
 ## Skills
 
 - Field collection and indentification techniques: aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology
-- Lab work techniques: (bio)chemistry, microbiology, botany, mycology, animal and plant physiology, and genetics
+- Lab work techniques: (bio)chemistry, microbiology, botany, mycology, animal and plant physiology, zoology, and genetics
 - Technology skills:
      - good: Microsoft Power Point, Microsoft Word, Linux command line, Gimp, Cockos Reaper
      - basic: Microsoft Excel, R, PyMol, VMD, Adobe InDesign
