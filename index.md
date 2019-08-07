@@ -55,6 +55,10 @@ Exploration of the local flora and fauna under the guidance of Dr. Werner Huber
 Collection of Araceae plant meristematic tissue samples at the biological station Tropenstation La Gamba under the mentorship of Dr. Jasna Dolenc Koce  
 Visited Instituto Clodomiro Picado
 
+## Publications
+
+Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1826) (Gastropoda: Calliostomatidae) on the coastal mollusc shell deposit at Ankaran. Natura Sloveniae. 21 (1) (forthcoming).
+
 ## Skills
 
 - Field collection and indentification techniques: aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology
@@ -64,7 +68,7 @@ Visited Instituto Clodomiro Picado
      - basic: Microsoft Excel, R, PyMol, VMD, Adobe InDesign
 - Languages: Slovenian (native), English (native), Croatian (conversational), German (conversational), Spanish (basic), Latin (basic)
 
-## References
+## Referees
 
 - Dr. Simona Prevorčnik, Assistant professor in the Zoology Department of the Biology Section of the Biotechnical College, University of Ljubljana  
 Contact: ([simona.prevorcnik@bf.uni-lj.si](simona.prevorcnik@bf.uni-lj.si))
