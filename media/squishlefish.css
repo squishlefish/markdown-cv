@@ -75,9 +75,9 @@ p {
 img { 
     border-radius: 50%;
     object-fit: cover;
-    width: 80pt;
-    height: 80pt;
-    left: -100pt;
+    width: 0pt;
+    height: 0pt;
+    left: 0pt;
     position: absolute;
 }
 
@@ -114,11 +114,11 @@ table tr:nth-child(2n) {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	/*color: #098c8a;*/
-    color:#05aaa8;
+    color:#ffffff;
 }
 
 p code {
@@ -152,7 +152,8 @@ li {
 	/*color: #777;*/
     margin: 0 0 3px 12pt;
     line-height: 1.6;
-    list-style-image: url(../shell.png);
+    /*list-style-image: url(../shell.png);*/
+	content: '\8226';
 }
 
 li ul {
@@ -187,7 +188,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color:#05aaa8;
+	color:#ffffff;
 	margin-top: 1.5em;
 	/*position: relative;*/
 	top: 1.2em;
@@ -201,7 +202,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color:#05aaa8;
+	color:#ffffff;
 	/*position: relative;*/
 	top: 1.6em;
     margin-bottom: 1em;
@@ -216,14 +217,14 @@ a {
 }
 
 a:hover {
-	color:#05c1be
+	color:#ffffff
 }
 
 #webaddress {
 	margin-top: 6pt;
 	position: relative;
 	left: 25%;
-	color:#05aaa8;
+	color:#ffffff;
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	font-size: 120%;
 }
