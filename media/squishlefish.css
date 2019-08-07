@@ -956,3 +956,8 @@
 .markdown-body .pl-12 {
   padding-left: 128px!important;
 }
+
+a {
+    text-decoration: none !important;
+    color: black !important;
+}
