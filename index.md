@@ -10,6 +10,7 @@ Preloge 53, 1211 Ljubljana – Šmartno, Slovenia
 | +386 40 577 047
 </div>
 
+<br>
 
 ## Education
 
@@ -42,6 +43,8 @@ Preparation and execution of the field day, taught university students, specimen
 - Independent field work in malacology  
 Hand collection of marine and terrestrial mollusks, marine sediment collection, specimen photography, species identification, cleaned, organized, and stored specimens  
 Curation of my website for my molluskan fauna collection www.sonja.si  
+
+<br><br>
 
 `2016 – present`
 - Field work with the curator of the Magical World of Shells Museum  
