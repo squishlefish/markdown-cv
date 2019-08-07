@@ -961,3 +961,7 @@ a {
     text-decoration: none !important;
     color: black !important;
 }
+
+code {
+  font-family: "Times New Roman", Times, serif;
+}
