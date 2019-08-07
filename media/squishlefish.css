@@ -118,7 +118,7 @@ code {
 	/*line-height: 1em;*/
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	/*color: #098c8a;*/
-    color:#ffffff;
+    color:#000000;
 }
 
 p code {
@@ -188,7 +188,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color:#ffffff;
+	color:#000000;
 	margin-top: 1.5em;
 	/*position: relative;*/
 	top: 1.2em;
@@ -202,7 +202,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color:#ffffff;
+	color:#000000;
 	/*position: relative;*/
 	top: 1.6em;
     margin-bottom: 1em;
@@ -217,14 +217,14 @@ a {
 }
 
 a:hover {
-	color:#ffffff
+	color:#000000
 }
 
 #webaddress {
 	margin-top: 6pt;
 	position: relative;
 	left: 25%;
-	color:#ffffff;
+	color:#000000;
 	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
 	font-size: 120%;
 }
