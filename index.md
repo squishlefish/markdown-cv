@@ -79,7 +79,7 @@ Contact: ([jan.simic86@gmail.com](jan.simic86@gmail.com))
 - Katarina Lenarčič, Biology Students Research Camp 2018 organizer, Biology Student's Society  
 Contact: ([katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com))
   
-- Domen Kocjan, coordinator of field days, Biology Student's Society  
+- Domen Kocjan, Coordinator of field days, Biology Student's Society  
 Contact: ([kocjan_domen@hotmail.com](kocjan_domen@hotmail.com))
 
 
