@@ -26,9 +26,10 @@
 .markdown-body h4 .octicon-link,
 .markdown-body h5 .octicon-link,
 .markdown-body h6 .octicon-link {
-  color: #1b1f23;
+  /*color: #1b1f23;*/
   vertical-align: middle;
   visibility: hidden;
+  text-decoration: none;
 }
 
 .markdown-body h1:hover .anchor,
@@ -218,7 +219,7 @@
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body pre {
-  font-family: monospace,monospace;
+  /*font-family: monospace,monospace;*/
   font-size: 1em;
 }
 
@@ -253,12 +254,12 @@
 }
 
 .markdown-body a {
-  color: #0366d6;
+  /*color: #0366d6;*/
   text-decoration: none;
 }
 
 .markdown-body a:hover {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 .markdown-body strong {
@@ -382,7 +383,7 @@
 
 .markdown-body code,
 .markdown-body pre {
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  /*font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;*/
   font-size: 12px;
 }
 
@@ -794,7 +795,7 @@
 
 .markdown-body .blob-code-inner {
   /*color: #24292e;*/
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  /*font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;*/
   font-size: 12px;
   overflow: visible;
   white-space: pre;
