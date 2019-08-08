@@ -41,7 +41,7 @@ Preparation and execution of the field day, taught university students, specimen
 
 `2012 – present`
 - Independent field work in malacology  
-Slovenia, Croatia, Italy, Greece, Montenegro, Albania, Portugal, USA, Costa Rica, Mexico, Mauritius
+Slovenia, Croatia, Italy, Greece, Montenegro, Albania, Portugal, USA, Costa Rica, Mexico, Mauritius  
 Hand collection of marine and terrestrial mollusks, marine sediment collection, specimen photography, species identification, cleaned, organized, and stored specimens  
 Curation of my website for my molluskan fauna collection www.sonja.si  
 
@@ -53,7 +53,7 @@ Magical World of Shells Museum, Piran, Slovenia
 Collected fossil mollusk specimens and recent marine mollusk specimens  
 
 `Feb 2018`
-- Student, Summer Biology School led by Dr. Tom Turk 
+- Student, Summer Biology School led by Dr. Tom Turk  
 Biology Section of the Biotechnical College, University of Ljubljana  
 San José, Monteverde, Gamba, Drake Bay, Costa Rica  
 Exploration of the local flora and fauna under the guidance of Dr. Werner Huber (University of Vienna)  
