@@ -10,8 +10,6 @@ Preloge 53, 1211 Ljubljana – Šmartno, Slovenia
 | +386 40 577 047
 </div>
 
-<br>
-
 ## Education
 
 `2016 – present`
