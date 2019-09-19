@@ -45,11 +45,6 @@ Curation of my website for my molluskan fauna collection www.sonja.si
 
 <br><br>
 
-`2016 – present`
-- Field work with curator of Magical World of Shells Museum  
-Magical World of Shells Museum, Piran, Slovenia  
-Collected fossil mollusk specimens and recent marine mollusk specimens  
-
 `Feb 2018`
 - Student, Summer Biology School led by Dr. Tom Turk  
 Biology Section of the Biotechnical College, University of Ljubljana  
