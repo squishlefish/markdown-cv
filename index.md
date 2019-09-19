@@ -57,6 +57,8 @@ Visited Instituto Clodomiro Picado, learned about snake toxins and antivenom pro
 
 Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1826) (Gastropoda: Calliostomatidae) on the coastal mollusc shell deposit at Ankaran. Natura Sloveniae. 21(1): 55-56.
 
+Huč, S., 2019. Poročilo o delu skupine za morske mehkužce (The Marine Mollusk Group Report). Raziskovalni tabor študentov biologije Marezige 2018 (Biology Students Research Camp Marezige 2018). Društvo študentov biologije, Ljubljana. (forthcoming)
+
 ## Skills
 
 - Field collection and identification techniques: aquatic and terrestrial invertebrates, botany, herpetology, chiropterology and mycology
