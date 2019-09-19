@@ -60,7 +60,7 @@ Visited Instituto Clodomiro Picado, learned about snake toxins and antivenom pro
 
 ## Publications
 
-Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1826) (Gastropoda: Calliostomatidae) on the coastal mollusc shell deposit at Ankaran. Natura Sloveniae. 21 (1) (forthcoming).
+Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1826) (Gastropoda: Calliostomatidae) on the coastal mollusc shell deposit at Ankaran. Natura Sloveniae. 21(1): 55-56.
 
 ## Skills
 
@@ -74,10 +74,12 @@ Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1
 ## Referees
 
 - Dr. Simona Prevorčnik, Assistant professor in the Zoology Department of the Biology Section of the Biotechnical College, University of Ljubljana  
-[simona.prevorcnik@bf.uni-lj.si](simona.prevorcnik@bf.uni-lj.si)
+[simona.prevorcnik@bf.uni-lj.si](simona.prevorcnik@bf.uni-lj.si)  
++386 1 3203 371
 
-- Jan Simič, Curator, Magical World of Shells Museum, Piran, Slovenia  
-[jan.simic86@gmail.com](jan.simic86@gmail.com)
+- Dr. Igor Zelnik, Curator, Professor in the Ecology and Conservation Department of the Biology Section of the Biotechnical College, University of Ljubljana  
+[igor.zelnik@bf.uni-lj.si](igor.zelnik@bf.uni-lj.si)  
++386 1 3203 339
 
 - Katarina Lenarčič, Organizer, Biology Students Research Camp 2018, Biology Student's Society  
 [katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com)
