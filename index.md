@@ -57,7 +57,7 @@ Visited Instituto Clodomiro Picado, learned about snake toxins and antivenom pro
 
 Huč, S. 2019. The first documented finds of Calliostoma laugieri (Payraudeau, 1826) (Gastropoda: Calliostomatidae) on the coastal mollusc shell deposit at Ankaran. Natura Sloveniae. 21(1): 55-56.
 
-Huč, S., 2019. Poročilo o delu skupine za morske mehkužce (The Marine Mollusk Group Report). Raziskovalni tabor študentov biologije Marezige 2018 (Biology Students Research Camp Marezige 2018). Društvo študentov biologije, Ljubljana. (forthcoming)
+Huč, S. 2019. Poročilo o delu skupine za morske mehkužce (The Marine Mollusk Group Report). V: Bizjak N., Presetnik P. (ured.). Raziskovalni tabor študentov biologije Marezige 2018 (Biology Students Research Camp Marezige 2018): 99-105. Društvo študentov biologije, Ljubljana.
 
 ## Skills
 
@@ -74,9 +74,13 @@ Huč, S., 2019. Poročilo o delu skupine za morske mehkužce (The Marine Mollusk
 [simona.prevorcnik@bf.uni-lj.si](simona.prevorcnik@bf.uni-lj.si)  
 +386 1 3203 371
 
-- Dr. Igor Zelnik, Curator, Professor in the Ecology and Conservation Department of the Biology Section of the Biotechnical College, University of Ljubljana  
+- Dr. Igor Zelnik, Associate Professor in the Ecology and Conservation Department of the Biology Section of the Biotechnical College, University of Ljubljana  
 [igor.zelnik@bf.uni-lj.si](igor.zelnik@bf.uni-lj.si)  
 +386 1 3203 339
+
+- Dr. Tom Turk, Professor in the Biochemistry Department of the Biology Section of the Biotechnical College, University of Ljubljana  
+[tom.turk@bf.uni-lj.si](tom.turk@bf.uni-lj.si)  
++386 1 3203 396
 
 - Katarina Lenarčič, Organizer, Biology Students Research Camp 2018, Biology Student's Society  
 [katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com)
