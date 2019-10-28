@@ -73,18 +73,14 @@ Huč, S. 2019. Poročilo o delu skupine za morske mehkužce (The Marine Mollusk 
 - Dr. Simona Prevorčnik, Assistant professor in the Zoology Department of the Biology Section of the Biotechnical College, University of Ljubljana  
 [simona.prevorcnik@bf.uni-lj.si](simona.prevorcnik@bf.uni-lj.si)  
 +386 1 3203 371
-
 - Dr. Igor Zelnik, Associate Professor in the Ecology and Conservation Department of the Biology Section of the Biotechnical College, University of Ljubljana  
 [igor.zelnik@bf.uni-lj.si](igor.zelnik@bf.uni-lj.si)  
 +386 1 3203 339
-
 - Dr. Tom Turk, Professor in the Biochemistry Department of the Biology Section of the Biotechnical College, University of Ljubljana  
 [tom.turk@bf.uni-lj.si](tom.turk@bf.uni-lj.si)  
 +386 1 3203 396
-
 - Katarina Lenarčič, Organizer, Biology Students Research Camp 2018, Biology Student's Society  
 [katarina.lenarcic@gmail.com](katarina.lenarcic@gmail.com)
-  
 - Domen Kocjan, Coordinator of field days, Biology Student's Society  
 [kocjan_domen@hotmail.com](kocjan_domen@hotmail.com)
 
